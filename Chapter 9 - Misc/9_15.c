@@ -1,7 +1,7 @@
 #include <stdio.h>
 typedef int *ip;
 
-int main(int argc char *argv[])
+int main(int argc, char *argv[])
 {
   int *a;  // a is an integer pointer
   ip b;    // b is also an integer pointer
