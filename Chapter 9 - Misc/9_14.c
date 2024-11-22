@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(int argc char *argv[])
+int main()
 {
   int *a;    // a is an integer pointer
   int *b;    // b is also an integer pointer
